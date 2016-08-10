@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.nullnoname</groupId>
 	<artifactId>ibxm</artifactId>
-	<version>51a</version>
+	<version>a51</version>
 	<name>IBXM</name>
 	<description>A good quality player library for the ProTracker MOD, Scream Tracker 3 S3M, and FastTracker 2 XM music formats. This is an unofficial mirror of IBXM alpha 51.</description>
 
